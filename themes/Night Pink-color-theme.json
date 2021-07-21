@@ -188,7 +188,7 @@
     "terminal.ansiCyan": "#F5A4C5",
     "terminal.ansiGreen": "#F3B0DC",
     "terminal.ansiMagenta": "#AA4D84",
-    "terminal.ansiRed": "#210535",
+    "terminal.ansiRed": "#f35e5e",
     "terminal.ansiWhite": "#FFD8F5",
     "terminal.ansiYellow": "#AA4D84",
     "terminalCursor.background": "#181818",

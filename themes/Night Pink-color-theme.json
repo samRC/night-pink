@@ -19,7 +19,7 @@
     "contrastBorder": "#44234240",
     "debugToolBar.background": "#181818",
     "diffEditor.insertedTextBackground": "#F3B0DC15",
-    "diffEditor.removedTextBackground": "#21053520",
+    "diffEditor.removedTextBackground": "#64338620",
     "dropdown.background": "#181818",
     "dropdown.border": "#FFD8F510",
     "editor.background": "#181818",
@@ -35,11 +35,11 @@
     "editorBracketMatch.background": "#181818",
     "editorBracketMatch.border": "#AA4D847f",
     "editorCursor.foreground": "#AA4D84",
-    "editorError.foreground": "#21053570",
+    "editorError.foreground": "#64338670",
     "editorGroup.border": "#18181830",
     "editorGroupHeader.tabsBackground": "#181818",
     "editorGutter.addedBackground": "#F3B0DC60",
-    "editorGutter.deletedBackground": "#21053560",
+    "editorGutter.deletedBackground": "#64338660",
     "editorGutter.modifiedBackground": "#E0619660",
     "editorHoverWidget.background": "#181818",
     "editorHoverWidget.border": "#FFD8F510",
@@ -51,7 +51,7 @@
     "editorLink.activeForeground": "#FFC1EF",
     "editorMarkerNavigation.background": "#FFC1EF05",
     "editorOverviewRuler.border": "#181818",
-    "editorOverviewRuler.errorForeground": "#21053540",
+    "editorOverviewRuler.errorForeground": "#64338640",
     "editorOverviewRuler.findMatchForeground": "#442342",
     "editorOverviewRuler.infoForeground": "#E0619640",
     "editorOverviewRuler.warningForeground": "#AA4D8470",
@@ -67,10 +67,10 @@
     "editorWidget.border": "#AA4D84",
     "editorWidget.resizeBorder": "#442342",
     "extensionButton.prominentBackground": "#F3B0DC90",
-    "extensionButton.prominentHoverBackground": "#210535",
+    "extensionButton.prominentHoverBackground": "#643386",
     "focusBorder": "#FFD8F500",
     "gitDecoration.conflictingResourceForeground": "#AA4D84",
-    "gitDecoration.deletedResourceForeground": "#210535",
+    "gitDecoration.deletedResourceForeground": "#643386",
     "gitDecoration.ignoredResourceForeground": "#442342",
     "gitDecoration.modifiedResourceForeground": "#660F53",
     "gitDecoration.untrackedResourceForeground": "#E06196",
@@ -80,7 +80,7 @@
     "input.placeholderForeground": "#FFC1EF60",
     "inputOption.activeBackground": "#FFC1EF30",
     "inputOption.activeBorder": "#FFC1EF30",
-    "inputValidation.errorBorder": "#21053550",
+    "inputValidation.errorBorder": "#64338650",
     "inputValidation.infoBorder": "#E0619650",
     "inputValidation.warningBorder": "#AA4D8450",
     "list.activeSelectionBackground": "#181818",
@@ -107,7 +107,7 @@
     "menubar.selectionBorder": "#44234250",
     "menubar.selectionForeground": "#FFC1EF",
     "minimap.background": "#181818",
-    "minimapGutter.addedBackground": "#210535",
+    "minimapGutter.addedBackground": "#643386",
     "minimapGutter.deletedBackground": "#AA4D84",
     "minimapGutter.modifiedBackground": "#F3B0DC",
     "minimapSlider.activeBackground": "#F3B0DCb0",
@@ -182,7 +182,7 @@
     "terminal.ansiBrightCyan": "#F5A4C5",
     "terminal.ansiBrightGreen": "#F3B0DC",
     "terminal.ansiBrightMagenta": "#AA4D84",
-    "terminal.ansiBrightRed": "#210535",
+    "terminal.ansiBrightRed": "#643386",
     "terminal.ansiBrightWhite": "#FFD8F5",
     "terminal.ansiBrightYellow": "#AA4D84",
     "terminal.ansiCyan": "#F5A4C5",
@@ -253,7 +253,7 @@
     {
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#210535"
+        "foreground": "#643386"
       }
     },
     {
@@ -434,7 +434,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#210535"
+        "foreground": "#643386"
       }
     },
     {
@@ -496,7 +496,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#210535"
+        "foreground": "#643386"
       }
     },
     {
@@ -548,7 +548,7 @@
     {
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#210535"
+        "foreground": "#643386"
       }
     },
     {

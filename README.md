@@ -1,3 +1,7 @@
-# README
+# Night Pink Theme
 
-## Night Pink Theme (Visual Studio Code Extension)
+#### (Theme for Visual Studio Code)
+
+<br/>
+
+![theme preview](./assets/night-pink-theme.png)

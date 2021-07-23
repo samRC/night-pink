@@ -1,5 +1,7 @@
 # Night Pink Theme
 
+![version_badge](https://img.shields.io/visual-studio-marketplace/v/SamRC.night-pink?style=for-the-badge)
+
 #### (Theme for Visual Studio Code)
 
 ![theme preview](./assets/night-pink-theme.png)
